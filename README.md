@@ -15,7 +15,10 @@ Demo script to automatically restart CloudTrail. The script have placeholders fo
 ## force-user-mfa
 Demo script to automatically create and attach virtual MFA to any newly created IAM user. The use can fetch the MFA Seed themselves using AWS CLI. 
 
+## Codacy
+Coday offers development teams a quality automation and standardization solution so that they can shift as far left as possible, identifying new issues early in the development process.
 ***
+
 
 Copyright 2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
